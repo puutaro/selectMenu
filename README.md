@@ -1,3 +1,9 @@
+
+<div><img src="https://github.com/puutaro/selectMenu/assets/55217593/98a49b87-642f-462d-b04c-c0e2addf78c0" width="300">  </div>
+  
+<div><img src="https://github.com/puutaro/selectTyper/assets/55217593/555e8f5f-656a-4faf-bb76-f663c01cfe47" width="300"></div> 
+
+
 # selectMenu.js
 ----------------
 
